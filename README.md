@@ -1,2 +1,17 @@
-# Myntra-Clone
-🛍️ Myntra Clone A Myntra-inspired webpage built using HTML &amp; CSS, replicating the UI of the popular e-commerce platform. Features a responsive layout, stylish homepage, navigation bar, and product grid. Future updates may include JavaScript for interactivity.  🔹 Tech: HTML, CSS 🔹 Run: Open index.html in your browser.
+# 🛍️ Myntra Clone  
+
+A **Myntra-inspired** static webpage built using **HTML & CSS**, replicating the UI of the Myntra website. This project is fully responsive and designed to showcase an e-commerce store layout.  
+
+## ✨ Features  
+✔️ Responsive Design  
+✔️ Stylish Homepage & Product Grid  
+✔️ Interactive Navigation Bar  
+
+## 🔧 Tech Stack  
+- **HTML** - Page Structure  
+- **CSS** - Styling & Responsiveness  
+
+## 🚀 How to Run  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/Navdeep-Rohilla/Myntra-Clone.git
